@@ -1,6 +1,6 @@
 # GitHub for Developers
 
-- Class Date: Feb 8 - 9, 2023
+- Class Date: Feb 8 - 10, 2023
 - Facilitator: @EmilyS
 
 ## Class Resources
