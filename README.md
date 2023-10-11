@@ -3,7 +3,7 @@
 - Class Date: Feb 8 - 10, 2023
 - Facilitator: @EmilyS
 
-## Class Resources
+## Class Resources test
 
 - [GitHub for Developers Manual](https://githubtraining.github.io/training-manual/#/)
 - [Introduction to GitHub Flow](https://guides.github.com/introduction/flow/)
